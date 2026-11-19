@@ -1,1 +1,1 @@
-# rewind-booth-media
+Media hosting for The Rewind Booth clips. Footage: Rockstar Games official trailers.
